@@ -1,0 +1,8 @@
+CUSTOMIZED SIMILARITY CORRECT [check customized similarity implementation]: Success {None}
+DATAPREPROCESSOR CORRECT [check dataPreprocessor implementation]: Success {None}
+EUCLIDEAN SIMILARITY CORRECT [check euclidean similarity implementation]: Success {None}
+ITEM SIMILARITY CORRECT [check item similarity model implementation]: Success {None}
+POPULARITY CORRECT [check popularity model implementation]: Success {None}
+USER AVERAGE CORRECT [check user average model implementation]: Success {None}
+USER SIMILARITY CORRECT [check user similarity model implementation]: Success {None}
+NOTEBOOK EXISTS [Notebook with the correct name exists (not graded)]: Success {None}
